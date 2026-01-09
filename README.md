@@ -34,3 +34,6 @@ Phishing Website Detection is a Python-based project that identifies suspicious 
 1. Clone the repository:
    ```bash
    git clone https://github.com/YOUR_USERNAME/phishing-website-detection.git
+
+## 👤 Author
+Raniya Asher
